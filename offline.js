@@ -1,0 +1,19 @@
+﻿{
+	"version": 1530713376,
+	"fileList": [
+		"data.js",
+		"c2runtime.js",
+		"jquery-2.1.1.min.js",
+		"images/player-sheet0.png",
+		"images/block-sheet0.png",
+		"images/bg_game.png",
+		"images/bg_start.png",
+		"images/count-sheet0.png",
+		"images/bg_score.png",
+		"images/bg_game1-sheet0.png",
+		"images/block1-sheet0.png",
+		"images/block2-sheet0.png",
+		"images/bg_hint.png",
+		"images/bg_end.png"
+	]
+}
